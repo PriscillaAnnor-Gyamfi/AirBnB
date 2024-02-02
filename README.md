@@ -21,7 +21,7 @@ This project is about studying how hotels are booked by guests considering the d
 
 <p align="center">
 Import the pandas library: <br/>
-<img src="https://imgur.com/undefined" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Sx3DXOw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
