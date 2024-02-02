@@ -45,7 +45,7 @@ Bar Chart:  <br/>
 <br />
 <br />
  Bar Chart:  <br/>
-<img src="[https://i.imgur.com/YROUORq.png](https://i.imgur.com/dM9L6mr.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://i.imgur.com/dM9L6mr.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  Bar Chart:  <br/>
