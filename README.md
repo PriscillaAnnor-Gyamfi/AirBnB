@@ -24,8 +24,8 @@ Import the pandas library: <br/>
 <img src="https://i.imgur.com/Sx3DXOw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Read in dataset and apply .info to better understand dataset (columns, rows, datatypes, check for missing values):  <br/>
+<img src="https://i.imgur.com/VngpupD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
