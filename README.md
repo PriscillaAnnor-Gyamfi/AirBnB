@@ -28,12 +28,12 @@ Read in dataset and apply .info to better understand dataset (columns, rows, dat
 <img src="https://i.imgur.com/VngpupD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Data Exploration: <br/>
 <img src="https://i.imgur.com/BSrwuc5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Adding a new calculated field, Revenue to the columns:  <br/>
+<img src="https://i.imgur.com/bPWmHtK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
