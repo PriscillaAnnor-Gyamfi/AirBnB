@@ -32,20 +32,32 @@ Data Exploration: <br/>
 <img src="https://i.imgur.com/BSrwuc5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Adding a new calculated field, Revenue to the columns:  <br/>
+Percentage Calculation:  <br/>
 <img src="https://i.imgur.com/bPWmHtK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Adding a new calculated field to the columns:  <br/>
+<img src="https://i.imgur.com/kXtngxg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Bar Chart:  <br/>
+<img src="https://i.imgur.com/YROUORq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Bar Chart:  <br/>
+<img src="[https://i.imgur.com/YROUORq.png](https://i.imgur.com/dM9L6mr.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Bar Chart:  <br/>
+<img src="https://i.imgur.com/VmsD0xl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Bar Chart:  <br/>
+<img src="https://i.imgur.com/TShfUzZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jFp9qus.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
