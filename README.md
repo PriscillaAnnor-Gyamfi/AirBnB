@@ -1,14 +1,27 @@
 <h1>AirBnB</h1>
 
+<h2>Problem Statement</h2>
+Identifying Optimal Locations and Property Types for Airbnb Investment:
+Despite the growing popularity of Airbnb as a cost-effective alternative to traditional lodging options, investors face challenges in determining the most profitable locations and property types for investment. This project aims to address this issue by analyzing factors such as rental demand, occupancy rates, revenue, and property characteristics to identify the optimal locations and property types for successful Airbnb ventures."
 
-<h2>Description</h2>
-This project is aimed at helping the AirBnB stakeholders to better understand how the business is doing considering the neighbourhoods, types of rooms and total revenue generated. This dataset is from Kaagle and contains a total of 47,431 rows and 17 columns. I used pandas to read in and manipulate dataset using the groupby function and including calculated field, Revenue. I also used the matplotlib.plt to generate graphical representations.  This project highlighted high revenue generating neighbourhoods as well as low revenue neighbourhoods. With this information, there is the need to restrategize marketing styles in both neighbourhoods to increase and sustain high revenue. Again, I recommended that, when looking to build more AirBnB properties in the future, the room type (entire home/appt) should be built more since majority of the customers prefer that room type.. 
+
+
+<h2>Key Findings</h2>
+
+This dataset is from Kaagle and contains a total of 47,431 rows and 17 columns. I used pandas to read in and manipulate dataset using the groupby function and including calculated field, Revenue. I also used the matplotlib.plt to generate graphical representations.  This project highlighted high revenue generating neighbourhoods as well as low revenue neighbourhoods. With this information, there is the need to restrategize marketing styles in both neighbourhoods to increase and sustain high revenue. Again, I recommended that, when looking to build more AirBnB properties in the future, the room type (entire home/appt) should be built more since majority of the customers prefer that room type.. 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Recommendations</h2>
+
+This dataset is from Kaagle and contains a total of 47,431 rows and 17 columns. I used pandas to read in and manipulate dataset using the groupby function and including calculated field, Revenue. I also used the matplotlib.plt to generate graphical representations.  This project highlighted high revenue generating neighbourhoods as well as low revenue neighbourhoods. With this information, there is the need to restrategize marketing styles in both neighbourhoods to increase and sustain high revenue. Again, I recommended that, when looking to build more AirBnB properties in the future, the room type (entire home/appt) should be built more since majority of the customers prefer that room type.. 
+<br />
+
+
+<h2>Languages Used</h2>
 
 - <b>Python</b>
+- <b>P</b>
 - <b>Powershell</b> 
 
 
