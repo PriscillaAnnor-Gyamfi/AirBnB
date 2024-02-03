@@ -18,11 +18,10 @@ This dataset is from Kaagle and contains a total of 47,431 rows and 17 columns. 
 <br />
 
 
-<h2>Languages Used</h2>
+<h2>Language Used</h2>
 
 - <b>Python</b>
-- <b>P</b>
-- <b>Powershell</b> 
+ 
 
 
 <h2>Environments Used </h2>
