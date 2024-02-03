@@ -8,8 +8,10 @@ Despite the growing popularity of Airbnb as a cost-effective alternative to trad
 
 <h2>Key Findings</h2>
 
-This dataset is from Kaagle and contains a total of 47,431 rows and 17 columns. I used pandas to read in and manipulate dataset using the groupby function and including calculated field, Revenue. I also used the matplotlib.plt to generate graphical representations.  This project highlighted high revenue generating neighbourhoods as well as low revenue neighbourhoods. With this information, there is the need to restrategize marketing styles in both neighbourhoods to increase and sustain high revenue. Again, I recommended that, when looking to build more AirBnB properties in the future, the room type (entire home/appt) should be built more since majority of the customers prefer that room type.. 
-<br />
+- <b>Manhattan neighbourhood group is shown to have the highest listing of 21,661 signifying 44% of the entire 47,431 listings recorded in the dataset</b>
+- <b>Brooklyn neighbourhood-group with the neighbourhood name Williamsburg has the overall highest revenue of $12,389,011</b>
+- <b>The most preferred roomtype was the Entire home/apt</b>
+ 
 
 
 <h2>Recommendations</h2>
