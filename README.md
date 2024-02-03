@@ -1,4 +1,4 @@
-<h1>AirBnB</h1>
+<h1>AirBnB Case Study</h1>
 
 <h2>Problem Statement</h2>
 Identifying Optimal Locations and Property Types for Airbnb Investment:
