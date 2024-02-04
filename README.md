@@ -16,7 +16,7 @@ Despite the growing popularity of Airbnb as a cost-effective alternative to trad
 
 <h2>Recommendations</h2>
 
-- <b>Manhattan Neighborhood Group: With the highest number of listings (21,661), representing 44% of the total listings in the dataset, investing in properties in Manhattan neighborhoods could offer a significant market opportunity. Consider focusing on areas within Manhattan to maximize potential returns.Manhattan neighbourhood group is shown to have the highest listing of 21,661 signifying 44% of the entire 47,431 listings recorded in the dataset</b>
+- <b>Manhattan Neighborhood Group: With the highest number of listings (21,661), representing 44% of the total listings in the dataset, investing in properties in Manhattan neighborhoods could offer a significant market opportunity. Consider focusing on areas within Manhattan to maximize potential returns.Manhattan neighbourhood group is shown to have the highest listing of 21,661 signifying 44% of the entire 47,431 listings recorded in the dataset.</b>
 - <b>Brooklyn - Williamsburg: The neighborhood of Williamsburg in the Brooklyn neighborhood group generated the highest revenue ($12,389,011). This indicates a strong demand for accommodations in this area. Consider exploring investment opportunities in Williamsburg, Brooklyn, to capitalize on its revenue-generating potential.</b>
 - <b>Preferred Room Type - Entire Home/Apt: The most preferred room type among Airbnb guests was the entire home/apartment. Tailoring listings to offer entire homes or apartments could attract more bookings and potentially increase revenue. Ensure that properties listed offer amenities and features that align with the preferences of guests seeking entire home/apartment accommodations.</b>
 
