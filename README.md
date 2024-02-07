@@ -1,5 +1,11 @@
 <h1>AirBnB Case Study</h1>
 
+<p align="center">
+Import the pandas library: <br/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhd-airbnb-logo-with-symbol-sign-icon-png-image--701787554444815590%2F&psig=AOvVaw1PhgQT3JI1tNeiWBJo0cf-&ust=1707380336474000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDk3crlmIQDFQAAAAAdAAAAABAE" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 
 
 <h2>Problem Statement</h2>
