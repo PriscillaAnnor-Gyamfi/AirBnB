@@ -1,8 +1,9 @@
 <h1>AirBnB Case Study</h1>
 
+
+
 <h2>Problem Statement</h2>
-Identifying Optimal Locations and Property Types for Airbnb Investment:
-Despite the growing popularity of Airbnb as a cost-effective alternative to traditional lodging options, investors face challenges in determining the most profitable locations and property types for investment. This project aims to address this issue by analyzing factors such as rental demand, occupancy rates, revenue, and property characteristics to identify the optimal locations and property types for successful Airbnb ventures."
+Identifying Optimal Locations and Property Types for Airbnb Investment: Despite the growing popularity of Airbnb as a cost-effective alternative to traditional lodging options, investors face challenges in determining the most profitable locations and property types for investment. This project aims to address this issue by analyzing factors such as rental demand, occupancy rates, revenue, and property characteristics to identify the optimal locations and property types for successful Airbnb ventures."
 
 
 
