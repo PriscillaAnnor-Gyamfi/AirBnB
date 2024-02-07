@@ -2,7 +2,7 @@
 
 <p align="center">
 Import the pandas library: <br/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhd-airbnb-logo-with-symbol-sign-icon-png-image--701787554444815590%2F&psig=AOvVaw1PhgQT3JI1tNeiWBJo0cf-&ust=1707380336474000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDk3crlmIQDFQAAAAAdAAAAABAE" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://t.ctcdn.com.br/ExzNITqN_wjxFZqXnBoahLPyEvQ=/1024x576/smart/i371053.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
